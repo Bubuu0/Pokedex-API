@@ -1,0 +1,98 @@
+{
+  "1": {
+    "categoria": "Pokémon Semente, calmo e resistente.",
+    "habitat": "Florestas, campos e áreas de mato alto.",
+    "alimentacao": "Absorve energia da luz do sol e também come folhas e frutas.",
+    "comportamento": "Tranquilo e paciente, gosta de tomar sol e protege quem está por perto.",
+    "habilidades": "Overgrow - fortalece golpes do tipo Grama quando está com pouca energia. Usa chicotes de vinha.",
+    "cuidados": "Sensível a ataques de Fogo, Gelo, Voar e Psíquico. Precisa de sol e água para crescer forte."
+  },
+  "2": {
+    "categoria": "Pokémon Semente, mais forte e firme.",
+    "habitat": "Florestas e campos abertos com bastante sol.",
+    "alimentacao": "Luz do sol, água e plantas; o broto das costas absorve energia.",
+    "comportamento": "Calmo, mas mais territorial. Procura lugares ensolarados.",
+    "habilidades": "Overgrow - fortalece golpes do tipo Grama quando está com pouca energia. Usa chicotes de vinha.",
+    "cuidados": "Sensível a ataques de Fogo, Gelo, Voar e Psíquico. Precisa de muito sol para sustentar o peso do broto."
+  },
+  "3": {
+    "categoria": "Pokémon Semente, grande e imponente.",
+    "habitat": "Florestas densas e campos.",
+    "alimentacao": "Energia do sol e da água; a flor das costas transforma luz em força.",
+    "comportamento": "Calmo e protetor, mas forte quando defende seu território.",
+    "habilidades": "Overgrow - fortalece golpes do tipo Grama quando está com pouca energia. Libera pólen e energia solar.",
+    "cuidados": "Sensível a ataques de Fogo, Gelo, Voar e Psíquico. Precisa de sol e solo saudável."
+  },
+  "4": {
+    "categoria": "Pokémon Lagarto, pequeno e corajoso.",
+    "habitat": "Áreas rochosas, cavernas e regiões quentes.",
+    "alimentacao": "Carnes e frutas; gosta de comida bem quente.",
+    "comportamento": "Enérgico e temperamental. A chama da cauda mostra seu humor e sua saúde.",
+    "habilidades": "Blaze - fortalece golpes de Fogo quando está com pouca energia. Solta chamas e arranha.",
+    "cuidados": "Sensível a ataques de Água, Terrestre e Pedra. A chama da cauda não pode se apagar."
+  },
+  "5": {
+    "categoria": "Pokémon Chama, feroz e competitivo.",
+    "habitat": "Montanhas rochosas e vulcões.",
+    "alimentacao": "Carnes e comidas bem quentes.",
+    "comportamento": "Agressivo, gosta de enfrentar rivais fortes.",
+    "habilidades": "Blaze - fortalece golpes de Fogo quando está com pouca energia. Lança chamas e golpes de garra.",
+    "cuidados": "Sensível a ataques de Água, Terrestre e Pedra. A chama da cauda precisa ficar acesa."
+  },
+  "6": {
+    "categoria": "Pokémon Chama, voa e domina o fogo.",
+    "habitat": "Montanhas, vulcões e céus abertos.",
+    "alimentacao": "Carnes; prefere presas fortes.",
+    "comportamento": "Orgulhoso e corajoso, procura oponentes à altura.",
+    "habilidades": "Blaze - fortalece golpes de Fogo quando está com pouca energia. Sopra fogo e voa em alta altitude.",
+    "cuidados": "Muito sensível a ataques de Pedra; também sofre com Água e Eletricidade. A chama da cauda precisa ficar acesa."
+  },
+  "7": {
+    "categoria": "Pokémon Tartaruguinha, pequeno e esperto.",
+    "habitat": "Rios, lagos e áreas costeiras.",
+    "alimentacao": "Peixes, plantas aquáticas e frutas.",
+    "comportamento": "Brincalhão. Se esconde no casco quando sente perigo.",
+    "habilidades": "Torrent - fortalece golpes de Água quando está com pouca energia. Solta jatos d'água.",
+    "cuidados": "Sensível a ataques de Grama e Eletricidade. Precisa viver perto de água."
+  },
+  "8": {
+    "categoria": "Pokémon Tartaruga, ágil e resistente.",
+    "habitat": "Rios, lagos e costas.",
+    "alimentacao": "Peixes e plantas aquáticas.",
+    "comportamento": "Calmo e ágil. A cauda peluda mostra sua experiência.",
+    "habilidades": "Torrent - fortalece golpes de Água quando está com pouca energia. Nada rápido e lança jatos d'água.",
+    "cuidados": "Sensível a ataques de Grama e Eletricidade. Precisa de água para se manter saudável."
+  },
+  "9": {
+    "categoria": "Pokémon Marisco, forte e blindado.",
+    "habitat": "Rios, lagos e costas.",
+    "alimentacao": "Peixes e outras criaturas aquáticas.",
+    "comportamento": "Firme e protetor. Usa o peso do corpo para enfrentar adversários.",
+    "habilidades": "Torrent - fortalece golpes de Água quando está com pouca energia. Dispara jatos d'água potentes pelo casco.",
+    "cuidados": "Sensível a ataques de Grama e Eletricidade. Precisa de água para se manter saudável."
+  },
+  "25": {
+    "categoria": "Pokémon Rato, pequeno e ágil.",
+    "habitat": "Florestas, bosques, áreas urbanas e/ou usinas elétricas.",
+    "alimentacao": "Frutas silvestres como as berries.",
+    "comportamento": "Geralmente amigável e curioso, mas pode ser arisco.",
+    "habilidades": "Estática - pode paralisar ao contato, além de ser capaz de disparar choques e acumular energia.",
+    "cuidados": "Sensível a ataques do tipo terrestre. Precisa descarregar eletricidade regularmente para não ficar estressado ou doente."
+  },
+  "26": {
+    "categoria": "Pokémon Rato, mais forte e veloz.",
+    "habitat": "Florestas e áreas urbanas.",
+    "alimentacao": "Frutas silvestres como as berries.",
+    "comportamento": "Confiante e ativo, mas pode ser agressivo ao descarregar energia.",
+    "habilidades": "Estática - pode paralisar ao contato e dispara choques mais fortes que os do Pikachu.",
+    "cuidados": "Sensível a ataques do tipo terrestre. Precisa descarregar eletricidade regularmente."
+  },
+  "172": {
+    "categoria": "Pokémon Rato Minúsculo, pequeno e arisco.",
+    "habitat": "Florestas e áreas urbanas.",
+    "alimentacao": "Frutas silvestres como as berries.",
+    "comportamento": "Tímido e curioso, mas ainda não controla bem a própria eletricidade.",
+    "habilidades": "Estática - pode paralisar ao contato. Ainda se machuca com a própria eletricidade.",
+    "cuidados": "Sensível a ataques do tipo terrestre. Precisa de cuidado para não se estressar."
+  }
+}

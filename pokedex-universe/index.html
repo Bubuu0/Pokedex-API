@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pokedex Universe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Iosevka+Charon:wght@400;700&family=Intel+One+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topo">
+    <a class="marca" href="index.html" aria-label="Pokedex Universe - página inicial">
+      <span class="logo"></span>
+      <span class="marca-texto">
+        <h1>Pokedex Universe</h1>
+        <svg class="orbita" viewBox="0 0 320 40" preserveAspectRatio="none" aria-hidden="true"><path d="M2 14C90 30 240 30 318 4C250 38 90 38 2 14Z"/></svg>
+      </span>
+    </a>
+    <form class="busca" role="search" id="form-busca">
+      <input type="search" id="busca" placeholder="Buscar por nome ou número" aria-label="Buscar Pokémon" autocomplete="off">
+      <button type="submit" class="busca-btn" aria-label="Buscar"></button>
+    </form>
+    <a class="link-salvos" href="salvos.html">Pokemons salvos</a>
+  </header>
+
+  <main>
+    <p class="aviso" id="aviso" role="status">Carregando Pokémon…</p>
+    <section class="grade" id="grade" aria-label="Lista de Pokémon"></section>
+    <button class="mais" id="mais" type="button" hidden>Carregar mais</button>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>
